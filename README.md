@@ -38,5 +38,4 @@ El autor de este programa es Luís Vázquez Lema. Puedes contactar con el autor 
 
 ## Licencia
 
-Se adjunta una copia de la licencia  MIT aplicable si clona el repositorio: sería el fichero `LICENSE`. Asimismo, en las primeras líneas comentadas de cada fichero `.java` también
-podrá visualizar el contenido de la licencia.
+Se adjunta una copia de la licencia  MIT aplicable si clona el repositorio: sería el fichero `LICENSE`. Asimismo, en las primeras líneas comentadas de cada fichero `.java` también podrá visualizar el contenido de la licencia.

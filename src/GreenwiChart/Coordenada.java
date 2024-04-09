@@ -23,7 +23,7 @@
 
  */
 
-package src.GreenwiChart;
+package GreenwiChart;
 
 public class Coordenada {
     private double latitud;
