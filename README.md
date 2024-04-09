@@ -28,14 +28,15 @@ Escoge bien el archivo a descargar, sabiendo cuál es tu sistema operativo, arqu
 
 5. El resultado esperado sería el siguiente:
 
-   ![Screenshot del output esperado](/src/GreenwiChart/Screenshot_GreenwiChart_esperado.png)
+   ![Screenshot del output esperado](/img/Screenshot_GreenwiChart_esperado.png)
 
 6. Introduce las coordenada con decimales en sus respectivas posiciones
 
 ## Autor
 
-El autor de este programa es Luís Vázquez Lema.
+El autor de este programa es Luís Vázquez Lema. Puedes contactar con el autor enviando un correo electrónico a la siguiente dirección: luisvazquezlema@gmail.com
 
 ## Licencia
 
-Se adjunta una copia de la licencia  MIT aplicable sin clona el repositorio: ería el fichero `LICENSE`.
+Se adjunta una copia de la licencia  MIT aplicable si clona el repositorio: sería el fichero `LICENSE`. Asimismo, en las primeras líneas comentadas de cada fichero `.java` tambié
+podrá visualizar el contenido de la licencia.
