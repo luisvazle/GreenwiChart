@@ -30,13 +30,13 @@ Escoge bien el archivo a descargar, sabiendo cuál es tu sistema operativo, arqu
 
    ![Screenshot del output esperado](/img/Screenshot_GreenwiChart_esperado.png)
 
-6. Introduce las coordenada con decimales en sus respectivas posiciones
+6. Introduce las coordenadas con decimales en sus respectivas posiciones.
 
 ## Autor
 
-El autor de este programa es Luís Vázquez Lema. Puedes contactar con el autor enviando un correo electrónico a la siguiente dirección: luisvazquezlema@gmail.com
+El autor de este programa es Luís Vázquez Lema. Puedes contactar con el autor enviando un correo electrónico a la siguiente dirección: <luisvazquezlema@gmail.com>
 
 ## Licencia
 
-Se adjunta una copia de la licencia  MIT aplicable si clona el repositorio: sería el fichero `LICENSE`. Asimismo, en las primeras líneas comentadas de cada fichero `.java` tambié
+Se adjunta una copia de la licencia  MIT aplicable si clona el repositorio: sería el fichero `LICENSE`. Asimismo, en las primeras líneas comentadas de cada fichero `.java` también
 podrá visualizar el contenido de la licencia.
