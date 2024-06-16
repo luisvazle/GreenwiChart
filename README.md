@@ -1,16 +1,15 @@
 # GreenwiChart
 
-Esta aplicación es un programa muy sencillo para principiantes escrito en el lenguaje Java. Inicialmente era una tarea del módulo de Programación en mi centro de estudios. Consistía en un programa de calcular la distancia entre dos puntos geográficos en base a introducir sus valores de latitud y longitud. Posteriormente, se añadió la interfaz gráfica. Se ha creado usando tanto Visual Studio Code como el IDE Apache Netbeans en distintas versiones, pero todas recientes. No sería recomendable crearlo con un editor de texto o código aisladamente, ya que se asume que lo hará un principiante y el programa cuenta con varios centenares de líneas de código, algo poco manejable si no se desarrolla con un IDE.
+Esta aplicación es un programa muy sencillo escrito en el lenguaje Java. Inicialmente era una tarea del módulo de Programación en mi centro de estudios. Consistía en un programa de calcular la distancia entre dos puntos geográficos en base a introducir sus valores de latitud y longitud. Posteriormente, se añadió la interfaz gráfica. Se ha creado usando tanto Visual Studio Code como el IDE Apache Netbeans en distintas versiones, pero todas recientes.
 
 ## Requisitos previos
 
-Si clonas este repositorio o descargas los ficheros que encontrarás en `src/GreenwiChart` y tratas de ejecutar esta aplicación haciendo simplemente "click", no funcionará, ya que antes se tiene que compilar a ficheros  `NombreDelFichero.class`. Para ello, necesitarás el kit de desarrollo de java, el cual provee las herramientas de compilación, el entorno de ejecución y la máquina virtual de java. Todo ello es necesario tenerlo instalado en tu sistema.
+Si clonas este repositorio o descargas los ficheros que encontrarás en `src/GreenwiChart` antes de ser ejecutable, se tiene que compilar a ficheros `NombreDelFichero.class`. Para ello, necesitarás el kit de desarrollo de java o JDK, el cual provee las herramientas de compilación, el entorno de ejecución y la máquina virtual de java. Todo ello es necesario tenerlo instalado en tu sistema.
 
-En el enlace de abajo puedes descargar la versión de este mencionado kit, el JDK, en la página oficial del desarrollador, la empresa Oracle.
+En los enlaces siguientes puedes descargar el mencionado kit, el JDK, en la página oficial del desarrollador, la empresa Oracle; o bien, si lo prefieres, tienes disponible versiones proporcionadas por el proyecto open source Eclipse Temurin, respaldado por la fundación de software libre Eclipse Foundation. Escoge bien el archivo a descargar, sabiendo cuál es tu sistema operativo, arquitectura de CPU, versión del JDK que deseas...después, ya el propio instalador te irá guiando con un menú gráfico con las opciones recomendadas y lo añadirá como variable de entorno.
 
-Escoge bien el archivo a descargar, sabiendo cuál es tu sistema operativo, arquitectura de CPU, versión del JDK que deseas...ya el propio ejecutable te irá guiando con un menú gráfico y lo añadirá como variable de entorno:
-
-- [Java Development Kit (JDK)](https://www.oracle.com/java/technologies/downloads/)
+- [Java Development Kit(JDK) de Oracle](https://www.oracle.com/java/technologies/downloads/)
+- [Java Development Kit(JDK) de Eclipse Temurin](https://adoptium.net/es/temurin/releases/)
 
 ## Cómo compilar y ejecutar
 
